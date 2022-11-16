@@ -1,0 +1,15 @@
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example009IntroArray\bin\Debug\net6.0\Example009IntroArray.exe
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example009IntroArray\bin\Debug\net6.0\Example009IntroArray.deps.json
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example009IntroArray\bin\Debug\net6.0\Example009IntroArray.runtimeconfig.json
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example009IntroArray\bin\Debug\net6.0\Example009IntroArray.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example009IntroArray\bin\Debug\net6.0\Example009IntroArray.pdb
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example009IntroArray\obj\Debug\net6.0\Example009IntroArray.csproj.AssemblyReference.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example009IntroArray\obj\Debug\net6.0\Example009IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example009IntroArray\obj\Debug\net6.0\Example009IntroArray.AssemblyInfoInputs.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example009IntroArray\obj\Debug\net6.0\Example009IntroArray.AssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example009IntroArray\obj\Debug\net6.0\Example009IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example009IntroArray\obj\Debug\net6.0\Example009IntroArray.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example009IntroArray\obj\Debug\net6.0\refint\Example009IntroArray.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example009IntroArray\obj\Debug\net6.0\Example009IntroArray.pdb
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example009IntroArray\obj\Debug\net6.0\Example009IntroArray.genruntimeconfig.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example009IntroArray\obj\Debug\net6.0\ref\Example009IntroArray.dll
