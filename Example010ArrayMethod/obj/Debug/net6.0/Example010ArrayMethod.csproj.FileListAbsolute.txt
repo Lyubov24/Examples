@@ -1,0 +1,15 @@
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example010ArrayMethod\bin\Debug\net6.0\Example010ArrayMethod.exe
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example010ArrayMethod\bin\Debug\net6.0\Example010ArrayMethod.deps.json
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example010ArrayMethod\bin\Debug\net6.0\Example010ArrayMethod.runtimeconfig.json
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example010ArrayMethod\bin\Debug\net6.0\Example010ArrayMethod.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example010ArrayMethod\bin\Debug\net6.0\Example010ArrayMethod.pdb
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example010ArrayMethod\obj\Debug\net6.0\Example010ArrayMethod.csproj.AssemblyReference.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example010ArrayMethod\obj\Debug\net6.0\Example010ArrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example010ArrayMethod\obj\Debug\net6.0\Example010ArrayMethod.AssemblyInfoInputs.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example010ArrayMethod\obj\Debug\net6.0\Example010ArrayMethod.AssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example010ArrayMethod\obj\Debug\net6.0\Example010ArrayMethod.csproj.CoreCompileInputs.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example010ArrayMethod\obj\Debug\net6.0\Example010ArrayMethod.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example010ArrayMethod\obj\Debug\net6.0\refint\Example010ArrayMethod.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example010ArrayMethod\obj\Debug\net6.0\Example010ArrayMethod.pdb
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example010ArrayMethod\obj\Debug\net6.0\Example010ArrayMethod.genruntimeconfig.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example010ArrayMethod\obj\Debug\net6.0\ref\Example010ArrayMethod.dll
