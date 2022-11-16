@@ -1,0 +1,15 @@
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example008IntroMethod\obj\Debug\net6.0\Example008IntroMethod.csproj.AssemblyReference.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example008IntroMethod\obj\Debug\net6.0\Example008IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example008IntroMethod\obj\Debug\net6.0\Example008IntroMethod.AssemblyInfoInputs.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example008IntroMethod\obj\Debug\net6.0\Example008IntroMethod.AssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example008IntroMethod\obj\Debug\net6.0\Example008IntroMethod.csproj.CoreCompileInputs.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example008IntroMethod\bin\Debug\net6.0\Example008IntroMethod.exe
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example008IntroMethod\bin\Debug\net6.0\Example008IntroMethod.deps.json
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example008IntroMethod\bin\Debug\net6.0\Example008IntroMethod.runtimeconfig.json
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example008IntroMethod\bin\Debug\net6.0\Example008IntroMethod.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example008IntroMethod\bin\Debug\net6.0\Example008IntroMethod.pdb
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example008IntroMethod\obj\Debug\net6.0\Example008IntroMethod.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example008IntroMethod\obj\Debug\net6.0\refint\Example008IntroMethod.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example008IntroMethod\obj\Debug\net6.0\Example008IntroMethod.pdb
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example008IntroMethod\obj\Debug\net6.0\Example008IntroMethod.genruntimeconfig.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example008IntroMethod\obj\Debug\net6.0\ref\Example008IntroMethod.dll
