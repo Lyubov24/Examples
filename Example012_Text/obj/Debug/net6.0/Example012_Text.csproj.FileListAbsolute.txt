@@ -1,0 +1,15 @@
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Text\obj\Debug\net6.0\Example012_Text.csproj.AssemblyReference.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Text\obj\Debug\net6.0\Example012_Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Text\obj\Debug\net6.0\Example012_Text.AssemblyInfoInputs.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Text\obj\Debug\net6.0\Example012_Text.AssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Text\obj\Debug\net6.0\Example012_Text.csproj.CoreCompileInputs.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Text\bin\Debug\net6.0\Example012_Text.exe
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Text\bin\Debug\net6.0\Example012_Text.deps.json
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Text\bin\Debug\net6.0\Example012_Text.runtimeconfig.json
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Text\bin\Debug\net6.0\Example012_Text.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Text\bin\Debug\net6.0\Example012_Text.pdb
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Text\obj\Debug\net6.0\Example012_Text.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Text\obj\Debug\net6.0\refint\Example012_Text.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Text\obj\Debug\net6.0\Example012_Text.pdb
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Text\obj\Debug\net6.0\Example012_Text.genruntimeconfig.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Text\obj\Debug\net6.0\ref\Example012_Text.dll

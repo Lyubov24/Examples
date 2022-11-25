@@ -1,0 +1,15 @@
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example007_Magic\Smile\bin\Debug\net6.0\Smile.exe
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example007_Magic\Smile\bin\Debug\net6.0\Smile.deps.json
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example007_Magic\Smile\bin\Debug\net6.0\Smile.runtimeconfig.json
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example007_Magic\Smile\bin\Debug\net6.0\Smile.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example007_Magic\Smile\bin\Debug\net6.0\Smile.pdb
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example007_Magic\Smile\obj\Debug\net6.0\Smile.csproj.AssemblyReference.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example007_Magic\Smile\obj\Debug\net6.0\Smile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example007_Magic\Smile\obj\Debug\net6.0\Smile.AssemblyInfoInputs.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example007_Magic\Smile\obj\Debug\net6.0\Smile.AssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example007_Magic\Smile\obj\Debug\net6.0\Smile.csproj.CoreCompileInputs.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example007_Magic\Smile\obj\Debug\net6.0\Smile.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example007_Magic\Smile\obj\Debug\net6.0\refint\Smile.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example007_Magic\Smile\obj\Debug\net6.0\Smile.pdb
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example007_Magic\Smile\obj\Debug\net6.0\Smile.genruntimeconfig.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example007_Magic\Smile\obj\Debug\net6.0\ref\Smile.dll

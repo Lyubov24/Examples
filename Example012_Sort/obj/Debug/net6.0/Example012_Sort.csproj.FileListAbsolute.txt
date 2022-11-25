@@ -1,0 +1,15 @@
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Sort\obj\Debug\net6.0\Example012_Sort.csproj.AssemblyReference.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Sort\obj\Debug\net6.0\Example012_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Sort\obj\Debug\net6.0\Example012_Sort.AssemblyInfoInputs.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Sort\obj\Debug\net6.0\Example012_Sort.AssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Sort\obj\Debug\net6.0\Example012_Sort.csproj.CoreCompileInputs.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Sort\bin\Debug\net6.0\Example012_Sort.exe
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Sort\bin\Debug\net6.0\Example012_Sort.deps.json
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Sort\bin\Debug\net6.0\Example012_Sort.runtimeconfig.json
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Sort\bin\Debug\net6.0\Example012_Sort.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Sort\bin\Debug\net6.0\Example012_Sort.pdb
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Sort\obj\Debug\net6.0\Example012_Sort.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Sort\obj\Debug\net6.0\refint\Example012_Sort.dll
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Sort\obj\Debug\net6.0\Example012_Sort.pdb
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Sort\obj\Debug\net6.0\Example012_Sort.genruntimeconfig.cache
+C:\Users\lyubo\OneDrive\Рабочий стол\lesson c#\Examples\Example012_Sort\obj\Debug\net6.0\ref\Example012_Sort.dll
